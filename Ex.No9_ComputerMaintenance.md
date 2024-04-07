@@ -49,8 +49,8 @@ problem(blank_display)
 
 
 ### Output:
+![image](https://github.com/Harish11-E/AI_Lab_2023-24/assets/109020289/b20210fe-c0da-4618-b41e-64a8ee4c2848)
 
-![image](https://github.com/Harish11-E/AI_Lab_2023-24/assets/109020289/17ca084a-f664-4413-bcbe-35f4d97fe8d4)
 
 
 ### Result:
