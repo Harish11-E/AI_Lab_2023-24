@@ -94,6 +94,7 @@ elseif (X >=151 && X <= 300)
 end
 ```
 ### Output:
+![image](https://github.com/Harish11-E/AI_Lab_2023-24/assets/109020289/c49edac5-ad7a-49ae-8306-d6d46cfd9233)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
